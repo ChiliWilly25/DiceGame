@@ -1,4 +1,4 @@
-# Payer throwing 2 dice (random int)
+# Payer throwing 2 dice
 # 2 players
 # Change turns
 # Start game
